@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discounts", "Discounts\Disc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentProcessing", "PaymentProcessing\PaymentProcessing.csproj", "{8D53427F-D551-4B42-BBB0-70CD72BBEDB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{FE8A29F3-1757-467A-B32F-7F725C374719}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8D53427F-D551-4B42-BBB0-70CD72BBEDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D53427F-D551-4B42-BBB0-70CD72BBEDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D53427F-D551-4B42-BBB0-70CD72BBEDB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE8A29F3-1757-467A-B32F-7F725C374719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE8A29F3-1757-467A-B32F-7F725C374719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE8A29F3-1757-467A-B32F-7F725C374719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE8A29F3-1757-467A-B32F-7F725C374719}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

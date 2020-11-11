@@ -24,6 +24,11 @@ namespace Discounts.Handles
             Coupons.Add(coupon);
         }
 
+        public void RemoveCoupons()
+        {
+            Coupons = new List<Coupon>();
+        }
+
         public void AddProduct(Product product)
         {
             Products.Add(product);
