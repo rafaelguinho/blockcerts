@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryOperations", "BinaryOperations\BinaryOperations.csproj", "{B59058A3-63F0-4DD6-BB92-6EC8F01144FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryOperations", "BinaryOperations\BinaryOperations.csproj", "{B59058A3-63F0-4DD6-BB92-6EC8F01144FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discounts", "Discounts\Discounts.csproj", "{D53F7D35-E128-4848-86AA-75952A74A4E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discounts", "Discounts\Discounts.csproj", "{D53F7D35-E128-4848-86AA-75952A74A4E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentProcessing", "PaymentProcessing\PaymentProcessing.csproj", "{8D53427F-D551-4B42-BBB0-70CD72BBEDB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D53F7D35-E128-4848-86AA-75952A74A4E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D53F7D35-E128-4848-86AA-75952A74A4E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D53F7D35-E128-4848-86AA-75952A74A4E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D53427F-D551-4B42-BBB0-70CD72BBEDB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D53427F-D551-4B42-BBB0-70CD72BBEDB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D53427F-D551-4B42-BBB0-70CD72BBEDB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D53427F-D551-4B42-BBB0-70CD72BBEDB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
